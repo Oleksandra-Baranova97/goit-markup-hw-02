@@ -8,6 +8,7 @@ body {
     color: #434455;
     background-color: #fff;
 }
+/* #region-header */
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -44,3 +45,29 @@ body {
 .contacts-link:hover,
 .contacts-link:focus 
 {color: #404bbf;}
+/* #endregion-header */
+/* #region-hero */
+.hero {background-color: #2e2f42;}
+
+.main-title-hero {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+.order-servise {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background: #4d5ae5;
+    cursor: pointer;
+}
+.order-servise:hover,
+.order-servise:focus {
+    background: #404bbf;
+}
+/* #endregion-hero */
