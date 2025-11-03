@@ -142,4 +142,16 @@ body {
     color: #434455;
 }
 /* #endregion-portfolio */
-
+/* #region-footer */
+.region-footer {background: #2e2f42;}
+.footer-logo .logo-part {
+    color: #f4f4fd;
+}
+.text-footer {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+/* #endregion-footer */
